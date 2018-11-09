@@ -68,8 +68,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 // Add a new document with a generated ID
-                db.collection("moviequotes")
-                        .add(mq);
+//                db.collection("moviequotes")
+//                        .add(mq);
 
             }
         });
